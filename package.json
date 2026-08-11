@@ -1,6 +1,6 @@
 {
   "name": "openvideo-plugin-ip-ban",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OpenVideoAPI 自动封禁插件：按 IP 请求数 / 流量超限自动封禁（阈值可调），安全中心白名单 IP 除外，支持按 IP 地区屏蔽（ip2region）",
   "main": "lib/index.js",
   "license": "MIT",
